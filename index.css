@@ -1,0 +1,23 @@
+h1 {
+  color: burlywood;
+}
+.information {
+  color: brown;
+}
+body {
+  background-color: beige;
+}
+h2 {
+  padding: 20px;
+  border: 5px solid black;
+}
+p {
+  margin: 10px;
+}
+button {
+  background-color: indianred;
+}
+button:hover {
+  background-color: lightcoral;
+  cursor: pointer;
+}
